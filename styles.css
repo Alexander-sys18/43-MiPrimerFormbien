@@ -47,8 +47,11 @@ input{
     height: 27px;
     justify-content: center;
     text-align: left;
-    padding: 0px;
 }
 #addsanynotes{
     border-color: white;
 }
+div .form-select {
+    padding: 0 !important;
+}
+  
